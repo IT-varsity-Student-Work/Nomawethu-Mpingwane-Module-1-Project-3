@@ -1,0 +1,65 @@
+.gallery img{
+    width: 100;
+}
+
+h2{
+    color: darkviolet;
+    font-family: fantasy;
+    font-size: 80px;
+}
+
+#menu{
+    background-color: aqua
+    height: 40px;
+    width: 400px;
+    padding-top: 12px;
+}
+
+p{
+    color: firebrick;
+    font-family: fantasy;
+    font-size: 30px;
+    color: aquamarine;
+}
+
+#menu a{
+    font-family: helvetica,cursive;
+    font-size: 30px;
+    text-decoration: none;
+    font-weight: 800px;
+    
+    padding-left: 20px;
+    padding-bottom: 20px;
+    
+}
+
+#menu a:hover{
+    color: 5077bd;  
+}
+table{
+    font-family: cursive;
+    border-collapse: collapse;
+    border-style: solid;
+    border-color: coral;
+}
+
+th{
+    font-weight: 800;
+    background-color: coral;
+    color: chartreuse;
+    font-size: 30px;
+    
+}
+td{
+    font-weight: 400;
+    color: firebrick;
+    background-color: bisque;
+    font-size: 30px;
+}
+
+
+
+
+
+
+
